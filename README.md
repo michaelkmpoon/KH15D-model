@@ -8,7 +8,7 @@ This code repository contains code to reproduce the results from the paper [Poon
 
 ##  Author
 
-Michael Poon - michaelkm dot poon at astro dot utoronto dot ca
+Michael Poon - michael dot poon at astro dot utoronto dot ca
 
 ## Code
 
