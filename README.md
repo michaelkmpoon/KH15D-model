@@ -4,7 +4,7 @@
 
 ##  Overview
 
-This code repository contains code to reproduce the results from the paper [Poon+2023](https://ui.adsabs.harvard.edu/abs/2021MNRAS.503.1599P/abstract)
+This code repository contains code to reproduce the results from the paper [Poon+2021](https://ui.adsabs.harvard.edu/abs/2021MNRAS.503.1599P/abstract).
 
 ##  Author
 
