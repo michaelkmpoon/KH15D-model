@@ -12,4 +12,14 @@ Michael Poon - michaelkm dot poon at astro dot utoronto dot ca
 
 ## Code
 
-jupyter notebook descriptions...
+## 1. [code/kh15d_finalmodel.ipynb
+](code/kh15d_finalmodel.ipynb
+) 
+
+MCMC code (using emcee) used to model KH 15D photometry, which is described in Section 2. Makes results in Table 2 and Figure B1.
+
+## 2. [code/makeFoldedLightcurves.ipynb
+](code/makeFoldedLightcurves.ipynb
+) 
+
+Makes Fig. 3, 4, and 5.
