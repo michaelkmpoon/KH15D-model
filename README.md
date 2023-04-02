@@ -16,7 +16,7 @@ Michael Poon - michael dot poon at astro dot utoronto dot ca
 
 MCMC code (using emcee) used to model KH 15D photometry, which is described in Section 2. Makes results in Table 2 and Figure B1. 
 
-Also available as a Python script [kh15d_finalmodel.py](kh15d_finalmodel.py).
+Also available as a Python script ([code/kh15d_finalmodel.py](code/kh15d_finalmodel.py)).
 
 ## 2. [code/makeFoldedLightcurves.ipynb](code/makeFoldedLightcurves.ipynb) 
 
